@@ -15,7 +15,7 @@ The objective of this project is to analyze store data and present useful busine
 The Power BI report file is available in this repository.
 
 ## 🚀 Project Demonstration
-Download the `.pbix` file and open it using Microsoft Power BI Desktop to explore the dashboard and its visualizations.
+Download the `KiranaStor.pbix` file and open it using Microsoft Power BI Desktop to explore the dashboard and its visualizations.
 
 ## 👨‍💻 Author
 Dhaneshwar Birade
